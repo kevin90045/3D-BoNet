@@ -13,7 +13,7 @@ h5py 2.9
 
 open3d-python 0.3.0
 
-##### Test by kevin90045
+##### Test by kevin90045:
 following setups have been tested:
 
 ubuntu 16.04 + cuda 10.0.130
