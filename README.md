@@ -13,6 +13,21 @@ h5py 2.9
 
 open3d-python 0.3.0
 
+##### Test by kevin90045
+following setups have been tested:
+
+ubuntu 16.04 + cuda 10.0.130
+
+python 3.5.2
+
+tensorflow 1.13.1 (don't use 1.14 version, otherwise cannot load custom tf_ops)
+
+scipy 1.3.3
+
+h5py 2.10.0
+
+open3d-python 0.3.0
+
 #### Compile tf_ops
 (1) To find tensorflow include path and library paths:
 
